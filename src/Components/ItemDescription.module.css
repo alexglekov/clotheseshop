@@ -1,0 +1,249 @@
+.bllock{
+    width: 1440px;
+    height: 745px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.content{
+    width: 1240px;
+    height: 650px;
+    background: white;
+    float: left;
+}
+
+.picContent{
+    display: inline-block;
+    width: 60%;
+    height: 650px;
+}
+
+.infContent{
+    position: relative;
+    display: inline-block;
+    width: 40%;
+    height: 650px;
+    background: transparent;
+}
+
+.infContentTitle{
+    position: absolute;
+    width: 100%;
+    height: 150px;
+    display: block;
+    padding-top: 30px;
+}
+
+.infContentSize{
+    position: absolute;
+    width: 100%;
+    height: 150px;
+    display: block;
+    margin-top: 150px;
+    padding-top: 20px;
+}
+
+.infContentPrice{
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    display: block;
+    margin-top: 300px;
+}
+
+.addToChartBtn{
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    display: block;
+    margin-top: 400px;
+    padding-top: 20px;
+}
+
+.infContentText{
+    position: absolute;
+    width: 100%;
+    height: 150px;
+    display: block;
+    margin-top: 500px;
+}
+
+.litpics{
+    position: absolute;
+    width: 10%;
+    height: 650px;
+    display: block;
+}
+
+.bPic{
+    position: absolute;
+    width: 600px;
+    height: 650px;
+    display: block;
+    margin-left: 10%;
+}
+
+.pFirst{
+    font-family: Raleway;
+    font-size: 30px;
+    margin-left: 50px;
+    display: inline-block;
+    font-weight: bold;
+    float: left;
+}
+
+.pSecond{
+    font-family: Raleway;
+    font-size:30px;
+    display: inline;
+    padding-top: 50px;
+    position: absolute;
+    left: 50px;
+}
+
+.itemSizeTitle{
+    font-size: 18px;
+    float: left;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.itemSizes1{
+    width: 63px;
+    height: 45px;
+    background: transparent;
+    border: 1px solid black;
+    margin-left: 0px;
+    margin-top: 40px;
+    list-style-type: none;
+    margin-right: 15px;
+    position: absolute;
+    left:50px;
+}
+
+.itemSizes2{
+    width: 63px;
+    height: 45px;
+    background: transparent;
+    border: 1px solid black;
+    margin-left: 0px;
+    margin-top: 40px;
+    list-style-type: none;
+    margin-right: 15px;
+    position: absolute;
+    left:130px;
+}
+
+.itemSizes3{
+    width: 63px;
+    height: 45px;
+    background: transparent;
+    border: 1px solid black;
+    margin-left: 0px;
+    margin-top: 40px;
+    list-style-type: none;
+    margin-right: 15px;
+    position: absolute;
+    left:210px;
+}
+
+.itemSizes4{
+    float: left;
+    width: 63px;
+    height: 45px;
+    background: transparent;
+    border: 1px solid black;
+    margin-left: 0px;
+    margin-top: 40px;
+    list-style-type: none;
+    margin-right: 15px;
+    position: absolute;
+    left:290px;
+}
+
+
+
+.itemSizesButton{
+    float: left;
+    width: 63px;
+    height: 45px;
+    background: transparent;
+    border: 1px solid black;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.itemSizesButton:active{
+    background: black;
+}
+
+.itemPriceTitle{
+    font-size: 18px;
+    float: left;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.itemPrice{
+    display: inline-block;
+    position: absolute;
+    left:50px;
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+.itemDescriptionText{
+    width: 300px;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    position: absolute;
+    left: 50px;
+}
+
+.litPicLi1{
+    width: 80px;
+    height: 80px;
+    margin-top: 40px;
+    list-style-type: none;
+    position: absolute;
+    left:35px;
+    background: black;
+}
+
+.litPicLi2{
+    width: 80px;
+    height: 80px;
+    margin-top: 170px;
+    list-style-type: none;
+    position: absolute;
+    left:35px;
+    background: lightgreen;
+}
+
+.litPicLi3{
+    width: 80px;
+    height: 80px;
+    margin-top: 300px;
+    list-style-type: none;
+    position: absolute;
+    left:35px;
+    background: blanchedalmond;
+}
+
+.litPicBtn{
+    width: 80px;
+    height: 80px;
+    background: transparent;
+    border: 0 solid white;
+}
+
+.bigPicWindow img{
+    width: 550px;
+    height: 560px;
+    margin-top: 55px;
+    margin-left:25px;
+}
+

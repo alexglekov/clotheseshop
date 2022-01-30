@@ -1,0 +1,45 @@
+.navBar{
+    margin: 0;
+    width: 1440px;
+    height: 80px;
+}
+
+.navUl{
+    margin-top:24px;
+    margin-left:101px;
+    width: 350px;
+    height: 60px;
+}
+
+.navLI{
+    width: 100px;
+    height: 60px;
+    display: inline-block;
+    margin-right: 5px;
+    padding: 5px;
+    float: left;
+}
+
+.logo {
+    position: absolute;
+    top: 34px;
+    left:750px;
+    width: 41px;
+    height: 41px;
+}
+
+.divRght {
+    width: 350px;
+    height: 85px;
+    display: inline-block;
+    margin-left: 1000px;
+    position: absolute;
+    top:9px;
+    left: 100px;
+    right: 100px;
+}
+
+.navUl2{
+    width: 300px;
+    height: 70px;
+}
